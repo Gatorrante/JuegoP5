@@ -1,0 +1,26 @@
+﻿CACHE MANIFEST
+#1688604840
+index.html
+c2runtime.js
+jquery-2.0.0.min.js
+images/cielo-sheet0.png
+images/suelo-sheet0.png
+images/nubes-sheet0.png
+images/arbol-sheet0.png
+images/jugador-sheet0.png
+images/enemigo-sheet0.png
+images/ciudades-sheet0.png
+images/sol-sheet0.png
+images/bala-sheet0.png
+images/balaenemigo-sheet0.png
+images/movingplatform-sheet0.png
+media/disparo.m4a
+media/disparo.ogg
+icon-16.png
+icon-32.png
+icon-114.png
+icon-128.png
+icon-256.png
+loading-logo.png
+NETWORK:
+*
